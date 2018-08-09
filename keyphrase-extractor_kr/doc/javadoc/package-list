@@ -1,0 +1,5 @@
+com.skplanet.nlp.keyphrase.config
+com.skplanet.nlp.keyphrase.core
+com.skplanet.nlp.keyphrase.data
+com.skplanet.nlp.keyphrase.driver
+com.skplanet.nlp.keyphrase.util
